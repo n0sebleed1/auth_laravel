@@ -1,0 +1,1 @@
+<script>window.location.href = "reg"</script><?php /**PATH C:\OSPanel\domains\auth_and_reg\resources\views/welcome.blade.php ENDPATH**/ ?>
