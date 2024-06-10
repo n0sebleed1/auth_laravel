@@ -1,1 +1,1 @@
-<script>window.location.href = "reg"</script>
+<script>window.location.href = "news"</script>

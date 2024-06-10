@@ -1,0 +1,1 @@
+<script>window.location.href = "login"</script><?php /**PATH /var/www/u2497761/data/www/allmyfriends.ru/resources/views/welcome.blade.php ENDPATH**/ ?>

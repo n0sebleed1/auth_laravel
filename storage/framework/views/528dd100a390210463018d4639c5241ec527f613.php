@@ -1,0 +1,1 @@
+<script>window.location.href = "news"</script><?php /**PATH C:\OSPanel\domains\technohub\resources\views/welcome.blade.php ENDPATH**/ ?>

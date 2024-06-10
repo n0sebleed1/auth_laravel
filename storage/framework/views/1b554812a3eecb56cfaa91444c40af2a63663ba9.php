@@ -1,0 +1,1 @@
+<script>window.location.href = "login"</script><?php /**PATH C:\MAMP\htdocs\resources\views/welcome.blade.php ENDPATH**/ ?>
